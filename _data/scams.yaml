@@ -33246,4 +33246,13 @@
     subcategory: Trust-Trading
     description: 'Trust trading scam site'
     addresses:
-      - '0x66a3ab1265c9bb05b9bf0ec01769d8950be1a4bd'       
+      - '0x66a3ab1265c9bb05b9bf0ec01769d8950be1a4bd'
+-
+    id: 4635
+    name: ethgiftnow.com
+    url: 'http://ethgiftnow.com'
+    category: Scamming
+    subcategory: Trust-Trading
+    description: 'Trust trading scam site'
+    addresses:
+      - '0x3d075995577c0c3c65a466fee47ffb1ba6a41b02'       
